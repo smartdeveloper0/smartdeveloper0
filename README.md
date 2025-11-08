@@ -10,7 +10,7 @@
 ###
 <p align="center">
   <a href="https://skst.in">
-    <img src="https://skillicons.dev/icons?i=github,gitlab,py,java,html,css,js,vscode,dotnet&theme=light&perline=10" />
+    <img src="https://skillicons.dev/icons?i=github,py,html,css,js,vscode&theme=light&perline=10" />
 
 
 
