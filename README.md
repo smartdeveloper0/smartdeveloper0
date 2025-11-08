@@ -16,7 +16,7 @@
 
 ###
 
-<h3 align="center"> <b>I'm Prakash. I live in India, where I build the “Future”.</b></h3>
+<h3 align="center"> <b>I'm Prakash. I live in India, where I build the “Future”</b></h3>
 
 
 
