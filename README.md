@@ -9,7 +9,6 @@
 ---
 ###
 <p align="center">
-  <a href="https://skst.in">
     <img src="https://skillicons.dev/icons?i=github,py,html,css,js,vscode&theme=light&perline=10" />
 
 
